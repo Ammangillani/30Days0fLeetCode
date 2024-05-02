@@ -15,4 +15,4 @@ var twoSum = function(nums, target) {
 
     numMap.set(nums[i], i);
   }
-};
+}
