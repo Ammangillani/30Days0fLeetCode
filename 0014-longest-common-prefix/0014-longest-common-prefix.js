@@ -12,4 +12,3 @@ var longestCommonPrefix = function(strs) {
         return prefix.slice(0, i);
     }, strs[0]);
 };
-
