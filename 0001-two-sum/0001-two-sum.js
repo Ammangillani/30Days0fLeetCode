@@ -13,6 +13,7 @@ var twoSum = function(nums, target) {
       return [numMap.get(complement), i];
     }
 
+
     numMap.set(nums[i], i);
   }
 };
