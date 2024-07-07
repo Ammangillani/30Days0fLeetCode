@@ -19,5 +19,6 @@ var reverse = function(x) {
         }
         result = result * 10 + digit;
     }
+    
     return result;
 };
